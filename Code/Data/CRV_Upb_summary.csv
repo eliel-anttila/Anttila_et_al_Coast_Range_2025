@@ -1,0 +1,41 @@
+﻿Name,PlateID_Wilson2005,Description,Location ,Latitude,Longitude,WM_Age,WM_2s_abs,MSWD,n,eHf_mean,Legacy_Age_1,Legacy_Age_1_2s,Legacy_type,LegAge1_type_and_Citation,Other_Age,Other_Age_2s,Other_type,Other_Age_Type_and_Citation,N_order
+SON14,11,lithic tuff,"Sonoma Volcanics, St Helena",38.62423578,-122.5993881,3.35,0.07,1.51,10,10.38,,,,,,,,,0.4
+SON9,11,Flow-banded rhyolite,"Sonoma Volcanics, Napa",38.34493558,-122.250872,4.71,0.09,0.699,8,17.45,,,,,,,,,0.6
+MT24-1,11,Felsite/tuff,Moraga Fm,37.86611,-122.2069,9.93,0.2,0.974,16,9.93,9.8356,0.0152,o,"San_Ar/Ar; Wagner et al., 2021",9.974,0.014,o,"zircon_TIMS, Gerasimov et al., 2024",1
+OR24,11,Clast of tuff,Upper Orinda Formation,37.86527,-122.2089,10.03,0.2,1.42,12,10.93,9.821,0.52,o,"San/Pl_Ar/Ar; Wagner et al., 2021",10.094,0.018,o,"zircon_TIMS, Gerasimov et al., 2024",1.4
+BM,10,Rhyolite tuff,Burdell Mountain,38.145591,-122.5909,11.11,0.22,1.3,11,11.74,11.203,0.08,o,"San_Ar/Ar; Wagner et al., 2011, Ford (2007)",,,,,2.2
+IR22,10*,Flow-banded rhyolite,Northbrae Rhyolite,37.892184,-122.27306,11.21,0.22,1.73,7,13.27,11,1,o,"Fleck, unpublished.",11.5,0.5,^,"zircon, unknown, Murphy et al., 2002; in Sullivan et al., 2021",3
+PVT1,45,Andesite flow,Palos Verdes Portuguese Tuff,33.734678,-118.368442,14.72,0.29,0.87, 5/6,11.2,14.5,1.1,s,"Pl_K/Ar, Turner, 1970",14.75,0.17,s,"zircon_LA-ICPMS, Fenton, 2020",4
+GV3,41,Rhyolite flow,Glendora Volcanics,34.087861,-117.811583,16.23,0.32,0.7,41,8.52,15.28,0.1,o,"Pl_Ar/Ar_Pre-FCT, McCulloh et al., 2002",,,,,5
+SCBL4,26,rhyodacite; middle member Blanca Fm ,Blanca Formation,33.9931883,-119.8225284,16.79,0.34,1.16,34,9.49,,,,,,,,,6
+SCBL3,26,"rhyodacite, highest Blanc fm.",Blanca Formation,33.9891667,-119.8206111,16.95,0.34,0.87,64/67,8.33,,,,,,,,,6.2
+DN1,26,"felsic tuff, above DN2 blanca Fm",Blanca Formation,34.0014485,-119.8327686,17.2,0.34,0.83,44,9.66,,,,,,,,,6.4
+DN2,26,"felsic tuff, blanca Fm",Blanca Formation,34.0013968,-119.8329066,17.23,0.34,1.04,53,9.24,,,,,,,,,6.6
+SCBL2,26,rhyodacite; from the base of the upper member of Blanca Fm.,Blanca Formation,33.9886389,-119.8201111,17.33,0.35,0.975,77,8.26,,,,,,,,,6.8
+SCBL-Clast,26,lowest felsic Blanca clast in San Onofre Breccia,Blanca Formation,33.9973611,-119.8378333,17.44,0.35,1.15,36,9.77,,,,,,,,,7
+BBU,26,"Santa Cruz Island, Beechers Bay highest stratigraphic level exposure",Beechers Bay Formation,33.9799578,-119.8736355,17.36,0.35,0.106,4,-1000,,,,,,,,,7.2
+BBL,26,"Santa Cruz Island, Base of Beechers Bay member",Beechers Bay Formation,33.9804796,-119.8709295,17.59,0.35,1.28,15,-1000,,,,,,,,,7.4
+SCI-N1,24,andesite/dacite dike/. SCI Volcanics. Nth of SCI Fault,Santa Cruz Island Volcanics,34.0163955,-119.8032118,17.45,0.35,0.737,65,9.49,17.12,0.24,o,"Whole_rock_Ar/Ar; Luyendyk et al., 1998",,,,,8
+CON2,27,Hornblende dacite,Conejo Volcanics,34.185272,-118.887636,17.01,0.34,4.26,2,-1000,15.9,0.8,s,"Pl_K/Ar, Turner and Campbell, 1979",,,,,9
+CON1,27,Felsic clast,Conejo Volcanics,34.2171,-118.929447,,,,,-1000,13.4,1.8,s,"Pl_K/Ar, Turner and Campbell, 1979",,,,,9.4
+OF1,22,Rhyolite tuff,Obispo Formation,35.135569,-120.639889,17.3,0.35,0.746,51,7.37,15.3,0.9,s,"Pl_K/Ar, Turner, 1970",,,,,10
+LO1,22,Felsic tuff,Lospe Formation,34.884539,-120.638825,17.86,0.36,0.89,12,7.21,17.7,0.06,o,"Ar/Ar_preFCT, Stanley et al., 1991",,,,,11
+TM1,30,Felsic tuff,Tranquillon Mountain,34.582758,-120.561244,18.48,0.37,0.933,18,4.45,17.2,1,s,"Pl_K/Ar, Turner, 1970",,,,,12.4
+TU1,35,Rhyolite tuff,Tunis Creek Unnamed ,34.948417,-118.828167,22.34,0.45,1.1,7,6.54,23,1,o,"Whole_rock_Ar/Ar; Plescia et al,, 1994",,,,,13
+GR1,15,Pummice lapilli tuff,Gabilan Range Unnamed,36.815278,-121.575861,22.52,0.45,1.8,9,1.61,21.3,1.3,s,"Groundmass_K/Ar, Weigand and Thomas, 1990",,,,,14
+TE1,35,Dacite Breccia,Tecuya Formation,34.924222,-118.980194,,,,,-1000,22.4,1.4,s,"Bio_K/Ar, Turner 1968, from Stanley et al., 2000",,,,,15
+PV4,15,Dacite breccia,Pinnacles Volcanics,36.483694,-121.187222,23.5,0.47,0.85,18,8.73,22.82,0.32,o,"Pl_Ar/Ar_Pre-FCT, Weigand and Swisher, 1991",,,,,16
+PV1 ,15,Rhyolite Breccia,Pinnacles Volcanics,36.48525,-121.192667,24.14,0.48,1.47,21,3.92,23.24,0.12,o,"Wholerock_Ar/Ar_Pre-FCT, Weigand and Swisher, 1991",,,,,16.4
+PV6,15,Pummice lapilli tuff,Pinnacles Volcanics,36.498861,-121.176917,24.16,0.48,1.09,38/40,1.28,24.1,1.4,s,"Pl_K/Ar, Turner, 1968, from Stanley et al., 2000",,,,,16.8
+PV3,15,Rhyolite Breccia,Pinnacles Volcanics,36.484917,-121.191028,,,,,-1000,24.5,2.4,s,"Wholerock_K/Ar, Turner, 1968, from Stanley et al., 2000",,,,,17
+PV5,15,Felsic tuff,Pinnacles Volcanics,36.483389,-121.184222,,,,,-1000,24.3,1.4,s,"Wholerock_K/Ar, Turner, 1968, from Stanley et al., 2000",,,,,17.2
+NV1,35,Flow banded rhyolite,Neenach Volcanics,34.741389,-118.600056,24.27,0.49,0.9,28,3.64,23.55,0.5,o,"Pl_Ar/Ar_Pre-FCT, Weigand and Swisher, 1991",,,,,18
+WR1_35,35,Rhyolite tuff/felsite,Wagon Road Unnamed,34.710417,-119.194778,24.32,0.49,1.71,10,-1000,25.1,0.2,o,"San_Ar/Ar; Fleck+Stanley unpub; from Stanley et al., 2000",,,,,19
+WR1_33,32,Rhyolite tuff/felsite,Wagon Road Unnamed,34.710417,-119.194778,24.32,0.49,1.71,10,-1000,25.1,0.2,o,"San_Ar/Ar; Fleck+Stanley unpub; from Stanley et al., 2000",,,,,19
+LC3,12,Flow banded rhyolite,Lang Canyon Unnamed,35.920806,-120.498889,24.49,0.49,0.83,38,3.64,23.8,1.4,s,"Whole_rock_K/Ar, Turner, cited by Sims, 1993. ",,,,,20
+VF1,33,Dacite,Vasquez Formation,34.48925,-118.340611,,,,,-1000,23.6,0.8,s,"Whole_rock_K/Ar, Frizzell and Weigand, 1993",,,,,21
+YM1,20,White tuff/felsite,York Mountain Unnamed,35.499278,-120.839528,25.38,0.51,0.705,56,1.8,25,2.5,^,"Strat relationships; Stanley et al., 1996",,,,,22
+BP1 ,20,Dacite plug,Bishops Peak MR-IH,35.302417,-120.697722,26.38,0.53,1.03,33,3.81,25.6,2.4,s,"Pl_K/Ar, Turner, 1968, from Stanley et al., 2000",,,,,23
+HP2,20,Felsite,Hollister Peak MR-IH,35.335531,-120.787119,26.43,0.53,1.01,38,4.5,24.1,3.6,s,"Pl_K/Ar, Hall et al., 1966, from Stanley et al., 2000",,,,,23.4
+CF2,20,Felsite,Cambria Felsite MR-IH,35.575186,-121.073342,26.98,0.54,1.14,53,2.9,26.75,0.5,o,"San_Ar/Ar; Cole and Stanley, 1998",,,,,23.8
+MM2,41,Dacite,Mountain Meadows Dacite,34.08925,-117.784056,,,,,-1000,27.3,0.2,o,"Bio_Ar/Ar; Stanley et al., 2000",,,,,25

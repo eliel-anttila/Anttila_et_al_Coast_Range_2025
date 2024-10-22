@@ -1,0 +1,35 @@
+Name,Location,Description,Modern_Latitude,Modern_Longitude,Recon_Lat,Recon_Long,WM_Age,WM_2s_abs,MSWD,eHf_mean
+BBL,Beechers Bay Formation,"Santa Cruz Island, Base of Beechers Bay member",33.9804796,-119.8709295,30.22155409,-113.1649851,17.586,0.35172,1.28,
+BBU,Beechers Bay Formation,"Santa Cruz Island, Beechers Bay highest stratigraphic level exposure",33.9799578,-119.8736355,30.22370632,-113.2002986,17.36,0.3472,0.106,
+BM,Burdell Mountain,Rhyolite tuff,38.145591,-122.5909,36.01460441,-119.8484447,11.11,0.2222,1.3,11.74
+BP1,Bishops Peak MR-IH,Dacite plug,35.302417,-120.697722,31.72560678,-114.6900068,26.38,0.5276,1.03,3.81
+CF2,Cambria Felsite MR-IH,Felsite,35.575186,-121.073342,32.00395277,-115.038498,26.98,0.5396,1.14,2.9
+CON2,Conejo Volcanics,Hornblende dacite,34.185272,-118.887636,31.15199206,-113.4282142,17.01,0.3402,4.26,
+DN1,Blanca Formation,"felsic tuff, above DN2 blanca Fm",34.0014485,-119.8327686,30.26076995,-113.2708222,17.197,0.34394,0.83,9.66
+DN2,Blanca Formation,"felsic tuff, blanca Fm",34.0013968,-119.8329066,30.26021277,-113.2610054,17.23,0.3446,1.04,9.24
+GR1,Gabilan Range Unnamed,Pummice lapilli tuff,36.815278,-121.575861,33.39075063,-116.0153303,22.52,0.4504,1.8,1.61
+GV3,Glendora Volcanics,Rhyolite flow,34.087861,-117.811583,31.67606408,-113.0997614,16.23,0.3246,0.7,9.51
+HP2,Hollister Peak MR-IH,Felsite,35.335531,-120.787119,31.75956928,-114.7745964,26.43,0.5286,1.01,4.5
+IR22,Northbrae Rhyolite,Flow-banded rhyolite,37.892184,-122.27306,36.02377106,-119.8213251,11.209,0.22418,1.73,13.27
+LC3,Lang Canyon Unnamed,Flow banded rhyolite,35.920806,-120.498889,32.6315538,-114.8053964,24.49,0.4898,0.83,3.64
+LO1,Lospe Formation,Felsic tuff,34.884539,-120.638825,30.81307,-113.92147,17.86,0.3572,0.89,7.21
+MT24-1,Moraga Fm,Felsite/tuff,37.86611,-122.2069,36.56121661,-120.3149027,9.93,0.1986,0.974,9.93
+NV1,Neenach Volcanics,Flow banded rhyolite,34.741389,-118.600056,33.45128394,-115.3130768,24.27,0.4854,0.9,3.64
+OF1,Obispo Formation,Rhyolite tuff,35.135569,-120.639889,30.90705641,-114.2845814,17.295,0.3459,0.746,7.37
+OR24,Upper Orinda Formation,Clast of tuff,37.86527,-122.2089,36.55101465,-120.297908,10.03,0.2006,1.42,10.93
+PV1,Pinnacles Volcanics,Rhyolite Breccia,36.48525,-121.192667,33.19184212,-115.5092448,24.14,0.4828,1.47,3.92
+PV4,Pinnacles Volcanics,Dacite breccia,36.483694,-121.187222,33.18949352,-115.5071751,23.5,0.47,0.85,8.73
+PV6,Pinnacles Volcanics,Pummice lapilli tuff,36.498861,-121.176917,33.20894246,-115.5002205,24.16,0.4832,1.09,3.11
+PVT1,Palos Verdes Portuguese Tuff,Andesite flow,33.734678,-118.368442,30.95645702,-113.4815258,14.72,0.2944,0.87,11.2
+SCBL-Clast,Blanca Formation,lowest felsic Blanca clast in San Onofre Breccia,33.9973611,-119.8378333,30.25322518,-113.2017039,17.437,0.34874,1.15,9.77
+SCBL2,Blanca Formation,rhyodacite; from the base of the upper member of Blanca Fm.,33.9886389,-119.8201111,30.26880903,-113.2164049,17.328,0.34656,0.975,8.26
+SCBL3,Blanca Formation,"rhyodacite, highest Blanc fm.",33.9891667,-119.8206111,30.27366433,-113.3275239,16.953,0.33906,0.87,8.33
+SCBL4,Blanca Formation,rhyodacite; middle member Blanca Fm,33.9931883,-119.8225284,30.27621275,-113.3803008,16.79,0.3358,1.16,9.49
+SCI-N1,Santa Cruz Island Volcanics,andesite/dacite dike/. SCI Volcanics. Nth of SCI Fault,34.0163955,-119.8032118,30.38049844,-113.1907982,17.45,0.349,0.737,9.49
+SON14,"Sonoma Volcanics, St Helena",lithic tuff,38.62423578,-122.5993881,38.62423578,-122.5993881,3.35,0.067,1.51,10.38
+SON9,"Sonoma Volcanics, Napa",Flow-banded rhyolite,38.34493558,-122.250872,38.34493558,-122.250872,4.71,0.0942,0.699,16.24
+TM1,Tranquillon Mountain,Felsic tuff,34.582758,-120.561244,30.30151,-113.71967,18.477,0.36954,0.933,4.45
+TU1,Tunis Creek Unnamed,Rhyolite tuff,34.948417,-118.828167,33.57016547,-115.6426725,22.34,0.4468,1.1,1.68
+WR1_35,Wagon Road Unnamed,Rhyolite tuff/felsite,34.710417,-119.194778,33.2595934,-115.851899,24.319,0.48638,1.71,
+WR1_33,Wagon Road Unnamed,Rhyolite tuff/felsite,34.710417,-119.194778,31.512,-113.508,24.319,0.48638,1.71,
+YM1,York Mountain Unnamed,White tuff/felsite,35.499278,-120.839528,31.91545395,-114.841949,25.375,0.5075,0.705,1.8
